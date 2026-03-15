@@ -64,4 +64,3 @@
 ## Author
     ADVINCULA, Aliyah V.  
     BSIT 2-1
-    2024-000002-SR-0
