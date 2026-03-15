@@ -1,4 +1,7 @@
 /************************************************************************************************
+ * ADVINCULA, Aliyah V.
+ * BSIT 2-1
+ * 
  * PharmacyOrderingSystem.java
  * 
  * A console-based ordering system for the neighborhood pharmacy, Botika ni Sinta.
